@@ -1,4 +1,5 @@
 [deps]
-CuArrays = "3a865a2d-5b23-5a0f-bc46-62713ec82fae"
-Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
-Knet = "1902f260-5fb4-5aff-8c31-6271790ab950"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+IterableTables = "1c8ee90f-4401-5389-894e-7a04a3dc0f4d"
+JuliaDB = "a93385a2-3734-596a-9a66-3cfbb77141e6"
