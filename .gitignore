@@ -4,3 +4,4 @@
 deps/deps.jl
 foo*
 .ipynb_checkpoints
+results
