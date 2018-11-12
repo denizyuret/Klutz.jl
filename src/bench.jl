@@ -12,3 +12,6 @@ j = `$(Base.julia_cmd()) -O3`
 
 @info "Running Flux Benchmarks"
 run(`$j --project=src/flux src/flux/flux.jl`)
+
+@info "Running Knet Benchmarks"
+run(`$j --project=src/knet src/knet/knet.jl`)
