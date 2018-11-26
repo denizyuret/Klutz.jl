@@ -1,0 +1,5 @@
+[deps]
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+IRTools = "7869d1d1-7146-5819-86e3-90919afe41df"
+NNlib = "872c559c-99b0-510c-b3b7-b6c96a88d5cd"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
